@@ -1,3 +1,3 @@
 # react-reveal
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-reveal)
+Teste para usar animações de scroll com o React Reveal
+https://www.react-reveal.com/
